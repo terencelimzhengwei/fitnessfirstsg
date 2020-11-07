@@ -1,0 +1,10 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Terence Lim",
+  "email": "terencelimz@gmail.com",
+  "friendly_name": "Unofficial API client for Fitness First SG",
+  "github_user": "terencelimzhengwei",
+  "package_name": "fitnessfirstsg",
+  "project_name": "fitnessfirstsg",
+  "version": "0.1.0"
+}
